@@ -5,9 +5,8 @@ from dotenv import load_dotenv
 from termcolor import colored, cprint
 from web_loader import load_url  # 确保这个模块存在并且能够正确导入
 from llms.llm_operations import generate_text_with_llm  # 导入 LLM 操作模块
-from llms.llm_operations import generate_text_with_llm  # 导入 LLM 操作模块
+import dingding.notifier as notifier
 
-#定义关键参数
 # 加载 .env 文件中的环境变量
 load_dotenv()
 
@@ -18,9 +17,7 @@ api_key = os.getenv('GOOGLE_NEWS_API_KEY')
 search_keyword = "大模型"
 
 # 采集新闻数量
-number_of_articles = 1
-
-
+number_of_articles = 5
 
 def print_startup_message():
     """
@@ -89,9 +86,11 @@ def main():
             summary = generate_text_with_llm(f"请生成中文模拟摘要:{content[:1000]}")  # 生成前1000字符的摘要示例
             # 输出摘要
             print(f"\n\n 请生成中文模拟摘要: {summary}")
+
+            # 发送钉钉消息通知
+            notifier.send_dingtalk_message(article['title'], article['url'], article.get('description', ''), summary)
         else:
             print("无法获取文章内容。")
-
 
 if __name__ == "__main__":
     main()

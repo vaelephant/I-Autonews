@@ -1,0 +1,40 @@
+const axios = require('axios');
+
+// 替换为你的钉钉 Webhook URL
+const DINGTALK_WEBHOOK_URL = 'https://oapi.dingtalk.com/robot/send?access_token=425c68f64d086699fcc1082b8975a12ccc0a7978777717d48502f6e8738afcbf';
+
+// 发送钉钉消息
+const sendDingtalkMessage = (message) => {
+  axios.post(DINGTALK_WEBHOOK_URL, {
+    msgtype: 'markdown',
+    markdown: {
+      title: 'AutoNews 通知',
+      text: message,
+    }
+  }).then(response => {
+    console.log('Message sent to DingTalk:', response.data);
+    console.log(message)
+  }).catch(error => {
+    console.error('Error sending message to DingTalk:', error);
+  });
+};
+
+// 主函数，发送自动新闻摘要
+const sendAutoNewsSummary = (title, url, description, summary) => {
+  let message = `### 新闻自动化 摘要\n\n`;
+  message += `- **标题**: [${title}](${url})\n`;
+  message += `- **摘要**: ${summary}\n`;
+  message += `- **内容**: ${description}\n`;
+
+  sendDingtalkMessage(message);
+};
+
+// 模拟调用发送自动新闻摘要函数
+// sendAutoNewsSummary(
+//   "新闻示例",
+//   "https://example.com/article",
+//   "这是一篇示例文章的描述。",
+//   "这是一篇示例文章的摘要。"
+// );
+
+sendAutoNewsSummary();

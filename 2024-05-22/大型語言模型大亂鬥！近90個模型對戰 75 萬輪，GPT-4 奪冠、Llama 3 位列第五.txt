@@ -1,0 +1,126 @@
+Title: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五
+
+URL Source: https://www.techbang.com/posts/114840-the-large-language-model-fought-750000-rounds-of-one-on-one
+
+Published Time: 2024-04-27T07:30:00Z
+
+Markdown Content:
+![Image 1: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn0.techbang.com/system/excerpt_images/114840/post_inpage/4ebd7968bc2e969de44718bb849ca64c.jpg?1714040124)
+
+關於 Llama 3，又有測試結果新鮮出爐 —— 大型語言模型評測社區 LMSYS 發佈了一份大型語言模型排行榜單，Llama 3 位列第五，英文單項與 GPT-4 並列第一。
+
+訂閱成功，科技原力傳輸中！ 您已訂閱，科技原力與您同在！
+
+訂閱Ｔ客邦電子日報，升級科技原力！
+
+![Image 2: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn1.techbang.com/system/images/714383/original/167af8cdfa97a520d17796dd38ec47d7.jpg?1713954487)
+
+不同於其他 Benchmark，這份榜單的依據是模型一對一 battle，由全網測評者自行命題並打分。
+
+最終，Llama 3 取得了榜單中的第五名，排在前面的是 GPT-4 的三個不同版本，以及 Claude 3 超大杯 Opus。
+
+而在英文單項榜單中，Llama 3 反超了 Claude，與 GPT-4 打成了平手。對於這一結果，Meta 的首席科學家 LeCun 十分高興，轉發了推文並留下了一個「Nice」。
+
+![Image 3: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn0.techbang.com/system/images/714382/original/f521f395bd89d575e0776e3f3ddf4cdc.jpg?1713954487)
+
+PyTorch 之父 Soumith Chintala 也激動地表示，這樣的成果令人難以置信，對 Meta 感到驕傲。
+
+> Llama 3 的 400B 版本還沒出來，單靠 70B 參數就獲得了第五名……
+> 
+> 我還記得去年三月 GPT-4 發佈的時候，達到與之相同的表現幾乎是一件不可能的事。
+> 
+> ……
+> 
+> 現在 AI 的普及化實在是令人難以置信，我對 Meta AI 的同仁們做出這樣的成功感到非常驕傲。
+
+![Image 4: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn2.techbang.com/system/images/714376/original/d31176fee0bceb25d36881303831b506.jpg?1713954485)
+
+那麼，這份榜單具體展示了什麼樣的結果呢？
+
+截至最新榜單發佈，LMSYS 共收集了近 75 萬次大型語言模型 solo 對戰結果，涉及的模型達到了 89 款。
+
+其中，Llama 3 參與過的有 1.27 萬次，GPT-4 則有多個不同版本，最多的參與了 6.8 萬次。
+
+![Image 5: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn0.techbang.com/system/images/714377/original/9f8bb652712c4078aad5698f58faeb9b.jpg?1713954485)
+
+下面這張圖展示了部分熱門模型的比拚次數和勝率，圖中的兩項指標都沒有統計平局的次數。
+
+![Image 6: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn0.techbang.com/system/images/714374/original/7ab0a45c05692bf9a5aa75ec1200df6f.jpg?1713954484)
+
+榜單方面，LMSYS 分成了總榜和多個子榜單，GPT-4-Turbo 位列第一，與之並列的是早一些的 1106 版本，以及 Claude 3 超大杯 Opus。
+
+另一個版本（0125）的 GPT-4 則位列其後，緊接著就是 Llama 3 了。不過比較有意思的是，較新一些的 0125，表現還不如老版本 1106。
+
+![Image 7: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn1.techbang.com/system/images/714378/original/b5d1669a20ed6290a4f48ef3bd1cc5bb.jpg?1713954485)
+
+而在英文單項榜單中，Llama 3 的成績直接和兩款 GPT-4 打成了平手，還反超了 0125 版本。
+
+![Image 8: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn2.techbang.com/system/images/714386/original/254552e2def85a3a88b9e0585b50c424.jpg?1713954488)
+
+中文能力排行榜的第一名則由 Claude 3 Opus 和 GPT-4-1106 共享，Llama 3 則已經排到了 20 名以外。
+
+![Image 9: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn2.techbang.com/system/images/714384/original/a968ff7bb7cfc7ed3fac4a02cdfc7fc3.jpg?1713954488)
+
+除了語言能力之外，榜單中還設定了長文字和程式碼能力排名，Llama 3 也都名列前茅。不過，LMSYS 的「遊戲規則」又具體是什麼樣的呢？
+
+人人都可參與的大型語言模型評測
+---------------
+
+這是一個人人都可以參與的大型語言模型測試，題目和評價標準，都由參與者自行決定。而具體的「競技」過程，又分成了 battle 和 side-by-side 兩種模式。
+
+![Image 10: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn2.techbang.com/system/images/714381/original/29d652d5ceb353b8d2776a90d38e4137.jpg?1713954486)
+
+battle 模式下，在測試介面輸入好問題之後，系統會隨機呼叫庫中的兩個模型，而測試者並不知道系統到底抽中了誰，介面中只顯示「模型 A」和「模型 B」。
+
+在模型輸出答案後，測評人需要選擇哪個更好，或者是平手，當然如果模型的表現都不符合預期，也有相應的選項。
+
+只有在做出選擇之後，模型的身份才會被揭開。side-by-side 則是由使用者選擇指定的模型來 PK，其餘測試流程與 battle 模式相同
+
+不過，只有 battle 的匿名模式下的投票結果才會被統計，且在對話過程中模型不小心暴露身份就會導致結果失效。
+
+![Image 11: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn2.techbang.com/system/images/714379/original/bc2b65dfc5658f92ce416d01462537d1.jpg?1713954486)
+
+按照各個模型對其他模型的 Win Rate，可以繪製出這樣的圖像：
+
+![Image 12: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn1.techbang.com/system/images/714375/original/f94f6996312edf03185b1d1b4dd730cb.jpg?1713954484)
+
+**△** 示意圖，較早版本
+
+而最終的排行榜，是利用 Win Rate 資料，通過 Elo 評價系統換算成分數得到的。
+
+Elo 評價系統是一種計算玩家相對技能水平的方法，由美國物理學教授 Arpad Elo 設計。
+
+具體到 LMSYS，在初始條件下，所有模型的評分（R）都被設定為 1000，然後根據這樣的公式計算出期待勝率（E）。
+
+![Image 13: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn2.techbang.com/system/images/714385/original/9c38a3e6851b5ba6701e3a426ffc073b.jpg?1713954488)
+
+隨著測試的不斷進行，會根據實際得分（S）對評分進行修正，S 有 1、0 和 0.5 三種取值，分別對應獲勝、失敗和平手三種情況。
+
+修正演算法如下式所示，其中 K 為係數，需要測試者根據實際情況調整。
+
+![Image 14: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn0.techbang.com/system/images/714380/original/4edfb02ebf5b4d8d50b0b6b579165cb4.jpg?1713954486)
+
+最終將所有有效資料納入計算後，就得到了模型的 Elo 評分。
+
+不過實際操作過程中，LMSYS 團隊發現這種演算法的穩定性存在不足，於是又採用了統計學方法進行了修正。
+
+他們利用 Bootstrap 方法進行重複採樣，得到了更穩定的結果，並估計了置信度區間。
+
+最終修正後的 Elo 評分，就成了榜單中的排列依據。
+
+One More Thing
+--------------
+
+Llama 3 已經可以在大型語言模型推理平台 Groq（不是馬斯克的 Grok）上跑了。
+
+這個平台的最大亮點就是“快”，之前用 Mixtral 模型跑出過每秒近 500 token 的速度。
+
+跑起 Llama 3，也是相當迅速，實測 70B 可以跑到每秒約 300 Token，8B 版本更是接近了 800。
+
+![Image 15: 大型語言模型大亂鬥！近90個模型對戰 75 萬輪，GPT-4 奪冠、Llama 3 位列第五](https://cdn1.techbang.com/system/images/714373/original/7d3b3a7c4bb30646e822ba9f5e3f1dd6.jpg?1713954483)
+
+*   **延伸閱讀：[Llama 3 最強開源大語言模型王者歸來，這次表現直逼 GPT-4](https://www.techbang.com/posts/114719-call-3-gpt-4)**
+
+[#人工智慧](https://www.techbang.com/tags/8735)[#ai](https://www.techbang.com/tags/8742)
+
+![Image 16: Qbitai](https://cdn0-i.techbang.com/system/avatars/qbitai/medium/7eb38c4790299890b0b0278a53cc0e40.jpg)

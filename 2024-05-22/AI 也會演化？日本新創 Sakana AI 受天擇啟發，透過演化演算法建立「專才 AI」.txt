@@ -1,0 +1,72 @@
+Title: AI 也會演化？日本新創 Sakana AI 受天擇啟發，透過演化演算法建立「專才 AI」
+
+URL Source: https://www.techbang.com/posts/114272-whats-the-point-the-new-york-times-im-going-to-go
+
+Published Time: 2024-05-11T02:30:00Z
+
+Markdown Content:
+![Image 1: AI 也會演化？日本新創 Sakana AI 受天擇啟發，透過演化演算法建立「專才 AI」](https://cdn0.techbang.com/system/excerpt_images/114272/post_inpage/4bebe5785193a00763413f8c164eebee.jpg?1712134176)
+
+日本新創公司 Sakana AI 提出「演化模型合併」的方法，並以此建立 3 個模型，分別為 EvoLLM-JP 大型語言模型、EvoVLM-JP 圖像語言模型、EvoSDXL-JP 影像生成模型，而每個模型也都在多個基準測試中取得了非常高的效能。Sakana AI 表示，人工智慧的未來不是需要一個全知、全能的系統，而是大量較小、但擁有自己專業的模型。
+
+訂閱成功，科技原力傳輸中！ 您已訂閱，科技原力與您同在！
+
+訂閱Ｔ客邦電子日報，升級科技原力！
+
+### **文章目錄**
+
+*   [1\. 「演化模型合併」方法：受天擇啟發](#mceTableOfContent_1hqhjltqg0)
+*   [2\. 3 種為日本打造的高效能平台模型](#mceTableOfContent_1hqhjq4an3)
+    *   [大型語言模型（EvoLLM-JP-v1）](#mceTableOfContent_1hqhjqcce4)
+    *   [圖像語言模型（EvoVLM-JP-v1）](#mceTableOfContent_1hqhjqfuk5)
+    *   [影像生成模型 (EvoSDXL-JP-v1)](#mceTableOfContent_1hqhjqk996)
+*   [3\. 人工智慧的未來？](#mceTableOfContent_1hqhjm34a1)
+
+「演化模型合併」方法：受天擇啟發
+----------------
+
+有鑑於目前已有許多開源資料可運用，加上使用模型合併創建新模型無需任何額外的訓練，也不需要 GPU，相較於從零開始開發一個 AI 模型，能減少許多成本，因此發展出一種堪稱煉金術或黑魔法的新技術「模型合併」。事實上，現在有人正在透過微調現有模型或向現有模型添加少量參數來創建新的基礎，不僅產出高度專業化的高性能模型，在 [Open LLM 排行榜](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) 上排名靠前的模型也都是透過模型合併創建的模型。
+
+由此可見，模型合併技術具有巨大的潛力，不過多數的模型都是利用工程師的經驗和直覺的反覆試驗，但人類的知識有限，一個更系統化和邏輯化的方法變得至關重要。
+
+Sakana AI 受「天擇」啟發提出「演化演算法」，可以自動探索廣闊的可能性空間，開啟更有效模型合併之門。「演化模型合併」結合了兩種方法，第一種是在「層級」上合併模型，第二種則為在「權重級別」上合併模型。
+
+![Image 2: AI 也會演化？日本新創 Sakana AI 受天擇啟發，透過演化演算法建立「專才 AI」](https://cdn2.techbang.com/system/images/711908/original/15494f5d066c228db4048b2124c4d905.jpg?1712546250)
+
+透過結合層級和權重級別方法，將可以實現更複雜的模型合併並自動建立創新的基礎模型。
+
+![Image 3: AI 也會演化？日本新創 Sakana AI 受天擇啟發，透過演化演算法建立「專才 AI」](https://cdn0.techbang.com/system/images/711910/original/fb1da5aceba520068e2116f8a046e48a.jpg?1712546374)
+
+3 種為日本打造的高效能平台模型
+----------------
+
+為了示範方法是否奏效，Sakana AI 使用演化模型合併實驗建立了三個模型，分別為 EvoLLM-JP 大型語言模型、EvoVLM-JP 圖像語言模型、EvoSDXL-JP 影像生成模型。值得注意的是，每個模型在多個基準測試中都取得了非常高的效能。而目前在 [Github](https://github.com/SakanaAI/evolutionary-model-merge/) 上也可以找到前兩種基礎模型。
+
+### 大型語言模型（EvoLLM-JP-v1）
+
+EvoLLM-JP 是利用進化模型合併構建的日本數學 LLM，不僅在數學方面表現出色，而且在一般日語能力方面也表現出色。雖然是 7B 參數的模型，但它不僅在日本LLM基準測試中取得了與同尺寸模型相比的最佳性能，而且還超過了 70B 參數的日本 LLM 的性能。
+
+### 圖像語言模型（EvoVLM-JP-v1）
+
+![Image 4: AI 也會演化？日本新創 Sakana AI 受天擇啟發，透過演化演算法建立「專才 AI」](https://cdn2.techbang.com/system/images/711812/original/8f6fb623777fbb71741c231644f4db75.jpg?1712136488)
+
+EvoVLM-JP 是可以用日語進行互動的圖像語言模型，可以容納日本文化特有的知識，並在使用日語圖像和日語文本的基準測試中取得了最佳結果。
+
+### 影像生成模型 (EvoSDXL-JP-v1)
+
+演化模型合併也可以應用於影像生成擴散模型，EvoSDXL-JP-v1 是一種高速日本影像生成模型，目前正在使用演化模型合併進行開發，只需 4 個推理步驟即可產生影像。
+
+人工智慧的未來？
+--------
+
+Sakana AI 認為，未來人們不是需要一個什麼都會的 AI 模型，因為那會耗費掉大量的運算資源，而是要許多個較小、且擁有自己專業的模型。從現在許多新建的模型來看，「模型合併」已然成為趨勢，而除了透過人為試錯、不斷反覆試驗外，Sakana AI 所提出的「演化模型合併」方法，能透過透過 AI 自行演化，簡化並加速模型生成、更提升性能。而 Sakana AI 的目標不僅是要訓練單一基礎模型，目前也致力於結合神經進化、集體智能和基礎模型等領域，進行具有未來潛力的研究主題。
+
+資料來源：[Sakana AI](https://sakana.ai/evolutionary-model-merge-jp/)
+
+*   **延伸閱讀：[大型語言模型成長速度遠超過摩爾定律，MIT 最新研究顯示人類快要餵不飽 AI 了](https://www.techbang.com/posts/113903-mits-latest-research-humans-are-running-out-of-ai)**
+*   **延伸閱讀：[你會跟ChatGPT說「請」嗎？研究顯示對LLM有禮貌可以提高其性能，難道AI理解人類的情感了？](https://www.techbang.com/posts/113458-would-you-say-thank-you-to-chatgpt-studies-have-shown-that)**
+*   **延伸閱讀：[要求AI模仿《星際爭霸戰》能提升效能，但還是用「自動優化」以魔法打敗魔法最有效](https://www.techbang.com/posts/113796-asking-the-ai-to-answer-in-the-way-of-a-starcraft-character)**
+
+[#人工智慧](https://www.techbang.com/tags/8735)[#ai](https://www.techbang.com/tags/8742)[#llm](https://www.techbang.com/tags/36591)[#演化](https://www.techbang.com/tags/38522)[#sakana ai](https://www.techbang.com/tags/38523)
+
+![Image 5: ycr](https://cdn0-i.techbang.com/system/avatars/chiehruyen/medium/3f1ad4bb39460722982906ae01428ae3.jpg)
