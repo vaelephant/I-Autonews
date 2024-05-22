@@ -1,0 +1,114 @@
+Title: ChatGPT 將免費開放 GPT-4o&#12289;分析 Excel&#12289;搜尋網路&#12289;GPTs 功能
+
+URL Source: https://www.playpcesor.com/2024/05/chatgpt-gpt-4o-excelgpts.html
+
+Published Time: 2024-05-14T08:49:00+08:00
+
+Markdown Content:
+### ChatGPT 將免費開放 GPT-4o、分析 Excel、搜尋網路、GPTs 功能
+
+  
+
+[![Image 1](https://blogger.googleusercontent.com/img/a/AVvXsEgPJfP285hIIY1bE-YQYYAZTE1LTwwWOi1wGiK65zbNM8WlgNzCx7CqZsgFkHPFmselXx84bV1pcXtqUr_4W37mjeAtNxVZ0VHmC5bbTQbsyNqOZhYKB5lPxDMsok8K0kFyi-saZxAnb76AIUukRUPGPuGcSVGPJI29DlLfyUhiA290eOQFAyac=w640-h432-rw)](https://blogger.googleusercontent.com/img/a/AVvXsEgPJfP285hIIY1bE-YQYYAZTE1LTwwWOi1wGiK65zbNM8WlgNzCx7CqZsgFkHPFmselXx84bV1pcXtqUr_4W37mjeAtNxVZ0VHmC5bbTQbsyNqOZhYKB5lPxDMsok8K0kFyi-saZxAnb76AIUukRUPGPuGcSVGPJI29DlLfyUhiA290eOQFAyac)
+
+  
+
+OpenAI 昨天晚上（2024/5/13）的發布會，**公布了類似電影中才會出現的即時語音、視覺智慧型助理：[GPT-4o](https://openai.com/index/hello-gpt-4o/)**（“o”代表“omni”），具備 GPT-4 的文字、圖像處理能力，**但語音回應的速度接近真實人類對話反應**（不像之前要等待很久才回應），而且具備視覺能力可以看到四周環境進行互動。在 OpenAI 的示範中， GPT-4o 像是一個真正的智慧型助理，可以即時口語翻譯、看考卷解答數學問題，還能辨識出人類的情感並進行互動（也可以唱歌）！
+
+你可以在這篇 OpenAI 的介紹中找到許多現場即時示範的 Demo 影片，**例如「[即時口譯](https://vimeo.com/945587808)」、「[識別生日場景並祝福](https://vimeo.com/945587911)」、「[解答數學問題](https://vimeo.com/945587328)」等等**，最重要的是，反應的速度飛快，就像跟真人對話一樣。
+
+**ChatGPT Plus 用戶今天就可以切換到「 GPT-4o 」的文字、影像處理模型。**
+
+像是影片中的「即時語音、視覺辨識」功能則會在未來幾周對 Plus 用戶開放。
+
+不過，還有一個很重要的發佈是：
+
+> **未來幾個禮拜內， OpenAI 將會讓免費用戶也可以使用「 GPT-4o 」的文字、影像、文件處理模型。**
+
+雖然有使用次數的限制，但這等於免費版也可以使用 GPT-4 等級的 AI 生成處理能力了。
+
+我將這些即將免費開放的「進階功能」，以及我之前寫過的相關教學整理如下，之後免費開放後，大家可以參考使用。
+
+*   **免費版中，將可以上傳文件、 Excel、 圖像，進行分析、繪製圖表**
+
+免費用戶也即將獲得這個上傳檔案、分析資料功能。
+
+[![Image 2](https://blogger.googleusercontent.com/img/a/AVvXsEjHGtHrhnJ119lXJL2YLHpn-VPCl8nYfgEnBWOEpHXH8sRyccOJGVWexeKfpixdVdSvNEMWg04CoVXfmZkTU8y2cLNL18qP2nxDvSwU0rbi4cCBEWg1Pl3JVrisklWPRkAzAQcDVA0Fj2MG-ozz6OMg3Al5ToxHgCer8weZDjIY7Uv4eop6igPTjQ=w640-h480-rw)](https://blogger.googleusercontent.com/img/a/AVvXsEjHGtHrhnJ119lXJL2YLHpn-VPCl8nYfgEnBWOEpHXH8sRyccOJGVWexeKfpixdVdSvNEMWg04CoVXfmZkTU8y2cLNL18qP2nxDvSwU0rbi4cCBEWg1Pl3JVrisklWPRkAzAQcDVA0Fj2MG-ozz6OMg3Al5ToxHgCer8weZDjIY7Uv4eop6igPTjQ)
+
+[![Image 3](https://blogger.googleusercontent.com/img/a/AVvXsEhZ3eTf4bv6fES7Trc8u031ACPBx4_RvHPOjmOIozKRlkwjLCUS7T6-uOK_u3HlRuvunkFydiH7w2J65SjS-9v6k3jNDWHPmhbNMoJ2xzZYE04QuStFXZPogicyMtWuyibQeB8AicVH4wKjBR6RY_Y-Dhgja7pD6fQnq53VXF4ndVqkyancXCwq4A=w640-h388-rw)](https://blogger.googleusercontent.com/img/a/AVvXsEhZ3eTf4bv6fES7Trc8u031ACPBx4_RvHPOjmOIozKRlkwjLCUS7T6-uOK_u3HlRuvunkFydiH7w2J65SjS-9v6k3jNDWHPmhbNMoJ2xzZYE04QuStFXZPogicyMtWuyibQeB8AicVH4wKjBR6RY_Y-Dhgja7pD6fQnq53VXF4ndVqkyancXCwq4A)
+
+*   **免費版中，可以透過 GPT-4o 搭配上網功能進行組合應用**
+
+免費功能將包含「即時上網搜尋」，確保找到新的資料並進行摘要，然後利用 GPT-4 等級的能力去分析文件、圖像，進行組合應用。
+
+[![Image 4](https://blogger.googleusercontent.com/img/a/AVvXsEgu7oDGqNw425s67wSUOj47pENq3w0XjQKlEDuANXiLyKchFdunyi9xL0pQjr1JIb78fr9XVjoDcQ9oY4_ZFDlqHqyB8hk4PPszjq89g2thHfKNfFVj8LbBJnmCHsI2kAx6mSHMcDSE_Xn6gFd98Hr3uyqdFL_DingrdORz5Dqq65PrJjfemy5C=w640-h376-rw)](https://blogger.googleusercontent.com/img/a/AVvXsEgu7oDGqNw425s67wSUOj47pENq3w0XjQKlEDuANXiLyKchFdunyi9xL0pQjr1JIb78fr9XVjoDcQ9oY4_ZFDlqHqyB8hk4PPszjq89g2thHfKNfFVj8LbBJnmCHsI2kAx6mSHMcDSE_Xn6gFd98Hr3uyqdFL_DingrdORz5Dqq65PrJjfemy5C)
+
+*   **免費版中可以使用 GPTs 應用**
+
+[![Image 5](https://blogger.googleusercontent.com/img/a/AVvXsEg-MgmINmeiZVUHVGyMG5wv3isPBl0qMN9x0QiUaqHcuz1mDx2Gi8nlPiw0aN3Q8Kw5H8ijpd_59fd4Ac4r36_HL1nyrj7eMgsCfG6lXchPlXfLfYdqvZAOKEBcy7T9qbCu9-02HbeDwf-z9DvIJYs8bdR-JEyGElTJKu6ygdAXkFesiXvggDKF=w640-h407-rw)](https://blogger.googleusercontent.com/img/a/AVvXsEg-MgmINmeiZVUHVGyMG5wv3isPBl0qMN9x0QiUaqHcuz1mDx2Gi8nlPiw0aN3Q8Kw5H8ijpd_59fd4Ac4r36_HL1nyrj7eMgsCfG6lXchPlXfLfYdqvZAOKEBcy7T9qbCu9-02HbeDwf-z9DvIJYs8bdR-JEyGElTJKu6ygdAXkFesiXvggDKF)
+
+*   **免費版也能具備「記憶」功能，自動產生常用指令**
+
+[![Image 6](https://blogger.googleusercontent.com/img/a/AVvXsEhuxJPqGeR1MWV7GR6l8ZG6KF-2a8W6CN_dhS9KdcYieGQr1qCpuVqadssoJcjYs6pcBcRES5VNnkvhN-U4Xz4Y4ih16dRB6AULkTpcaCfx41XgjPsaphC2V0drFItwqxc2U07rBESuvtCfTK3B7gwsxzhC0AWq8PVpraE6ouwRavbh1QzKBRIU=w640-h270-rw)](https://blogger.googleusercontent.com/img/a/AVvXsEhuxJPqGeR1MWV7GR6l8ZG6KF-2a8W6CN_dhS9KdcYieGQr1qCpuVqadssoJcjYs6pcBcRES5VNnkvhN-U4Xz4Y4ih16dRB6AULkTpcaCfx41XgjPsaphC2V0drFItwqxc2U07rBESuvtCfTK3B7gwsxzhC0AWq8PVpraE6ouwRavbh1QzKBRIU)
+
+除了 GPT-4o 的語音對話功能將針對 ChatGPT Plus 用戶在未來幾周內陸續開放。
+
+GPT-4o 的 AI 處理模型，以及上述原本的付費版進階功能，也會在未來幾周內對免費用戶開放，值得好好利用。
+
+### 這個網誌中的熱門文章
+
+### [全家沖印、 7-11 列印照片誰好用？立可得與 ibon教學+比較表](https://www.playpcesor.com/2018/12/likoda-ibon.html)
+
+[![Image 7: 圖片](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2hOZm6OKRgq7fO6fkx0_CYZ2Xobfgs7WCXORUBbPrA0pQXGrv5F3DmCwDbnDTd46dGs56xy-zSPrVDZa_wUbV9bKrB6QG4-7Mr8DrG5dWz_p0MzomQwDU73M69sfOQ8kUa37Rsg/s640/IMG_20181220_192719+%255B2%255D+%255B2%255D.jpg)](https://www.playpcesor.com/2018/12/likoda-ibon.html)
+
+現在大家照片都儲存在數位手機、
+
+ [相機](#)、硬碟或雲端，數位欣賞與分享很方便。但有時候就是需要拿到「實際照片」，例如： 小朋友學校的勞作作業 想要製作家庭相框 用照片來當小禮物 把照片貼在紙本手帳上 這時候，有什麼方法可以快速把數位照片「洗」成實體照片？而且最好能不花時間、立即拿到、價格也不貴呢？ 如果家裡沒有印表機（或是沒有好的印表機），又不想跑照相館，那麼這時候 「便利商店」同樣也提供了印照片的服務 ，而且價格不貴，可以立即拿到，操作流程也十分簡單。 之前我在電腦玩物分享過：「 不需買印表機也免隨身碟， 7-11 全家雲端列印超方便教學 」。這篇文章則從印照片出發： 同樣的不需買印表機、不需隨身碟，就能快速印出高品質的照片成品。
+
+### [Google Maps 我的地圖完全教學！規劃自助旅行攻略](https://www.playpcesor.com/2016/03/google-maps-my-maps.html)
+
+[![Image 8: 圖片](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Wa1Lcogrblh_in6M7tvxmqRIXWBb92nYbr_R0GzK_Bcn3ThoJtniUUC7OmeMq4wDfwX_tGTXkWgXLoyCfvLOWIdM-879OINZtP8HFh-35kByrXhbTROW_s6y2DhCRw8-KM1o/s640/Google+my+maps-00.png)](https://www.playpcesor.com/2016/03/google-maps-my-maps.html)
+
+在之前寫完「 善用 Google 航班搜尋找出理想便宜機票的 10 個技巧 」一文後，我想繼續挖掘 Google 幫我們規劃自助旅行的潛力。 今天這篇文章，就深入的來聊聊 Google 的「我的地圖」服務，這是一個可以讓我們「自訂地圖」的工具 ，在地圖上任意繪製地標、路線，對商務需求來說可以打造出一張一張資料地圖（例如我之前在製作一本新書時建立的「 台灣推薦空拍地點地圖 」），對生活需求來說，則可以讓我們規劃自助旅行路線！ Google 「我的地圖」在規劃自助旅行路線時可以解決許多問題： 國外地點名稱地址常常難懂，用自訂地圖就能自己取一個好辨識的名稱。 在規劃路線之外，自訂地圖還能補充許多旅遊圖文資料，讓這張地圖就是旅遊手冊。 好看的自訂地圖一方面旅行時帶來好心情，二方面事後就是最好的旅遊回憶之一。 自訂地圖還能跟朋友共享合作，讓彼此都能在手機上查看這次旅行地圖。
+
+### [Arc 瀏覽器 windows 版測試心得，用四大介面改造升級專注工作流](https://www.playpcesor.com/2024/03/arc-windows.html)
+
+[![Image 9: 圖片](https://blogger.googleusercontent.com/img/a/AVvXsEjPnBW0HCSvQMYREzLQt7i4rhrcSFLCFSoIraApS4lkirll4TqBETXkR3gvKnb5htdp0rHt1Y7QtuONamepHTBonWHLtSLq5EoNB3v7oIJ5qQSi2tI4-r5nrR9m9r05Isjxmj73P7fUFIwYg6Slf0Bu5HAhwPALQ6I0zyk96S1XNub0cyOOEu0upQ=w640-h360)](https://www.playpcesor.com/2024/03/arc-windows.html)
+
+Arc 瀏覽器是近年來獲得很多推薦的新興瀏覽器軟體 ，我身邊就有許多朋友邀請我去試試看 Arc ，不過之前 Arc 只有 Mac 版本，而近幾年我都沒有使用 Mac 。所以一直到最近（2024年初）推出 Arc Windows 測試版後，我才開始試試看，並且確實很喜歡他改造過的瀏覽體驗。 今天這篇心得文章，就要分享 Arc 核心瀏覽介面如何改造我們的上網工作流程 。
+
+### [微軟 Bing AI 繪圖工具 Image Creator 免費開放，30秒輕鬆生成圖片](https://www.playpcesor.com/2023/03/bing-ai-image-creator-30.html)
+
+[![Image 10: 圖片](https://blogger.googleusercontent.com/img/a/AVvXsEie3HQNKBniorR7JbJTAhjLW5Y6smJ0Mt_vqo5QGj5brLhieAN0uktG6jw5d4I91zfaax-ZkNqGwn_QfyUOA7AKlXyxLmD7UUXs7qVajLEE-DDVZsTEyuUChJyImEYYAdr1n59gMH1d-VNAGanMFfJ7wB7_ZoAqwv0bNzd-nWmHJdM5_f8g7C4=w640-h352)](https://www.playpcesor.com/2023/03/bing-ai-image-creator-30.html)
+
+微軟 Bing 今天針對台灣用戶開放了一個免費的 AI 繪圖工具，名為「Bing Image Creator （影像建立者）」 ，該工具基於 OpenAI 的 DALL-E 圖片生成技術。如果你之前還沒有嘗試過像是 Midjourney、 Stable diffusion 等 AI 圖片生成服務的話，那麼值得試試看「Bing Image Creator （影像建立者）」， 因為他只要用微軟帳號登入網頁，就可以免費使用，對一般用戶來說更好上手。
+
+### [ChatGPT 提問隱藏技巧：用對話分支開啟多重分析、修正失控討論](https://www.playpcesor.com/2024/05/chatgpt.html)
+
+[![Image 11: 圖片](https://blogger.googleusercontent.com/img/a/AVvXsEirin5hAeSxqCjJv3rIWgT_Smo1F9zNEpgaSGCFvriRr04MP9CAtwSjNN_l0yn3JtqoIyCJCA63oKxzonmKvRgFQiZMKUIFRxRDbf2lLdkdofabTTQsYMdr5J48aL-jE5X62pop2uChw-CcI3Ws-rAP3bX8f8vtnMI2reMPJZIIfsjbB1hYWmVx=w640-h360)](https://www.playpcesor.com/2024/05/chatgpt.html)
+
+ChatGPT 中有一個行之有年的功能，應該有不少朋友知道，但最近也發現有些朋友可能沒有發現，或是沒有意識到背後可以好好利用的方法。這個功能我也不知道正式的名稱， 通常我稱他：「對話分支路線」，他可以開啟類似多重宇宙的討論，針對同一個主題，開啟多種不同角度的分析，而不會混亂或打架。 另外也可以在某一個討論失控時，回到前面某個時間點，重新開啟討論。
+
+### [用 AI 摘要影片重點是節省時間，還是浪費時間？我的實測心得](https://www.playpcesor.com/2023/03/ai.html)
+
+[![Image 12: 圖片](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7wGrJBiwqkicjqiGKwcgjiZeQzyn2dH1BURHdPsohgLTFvgDiqhREEx0T4CPtL6Xa4sKxbIvwyuNTpETcUg50LKxyZ5baLVyqQc5eHRpx4iE0bgTBItE38dCQthRAuK1KtRSz6n13VKyiY3z93XRb_UNlR1jAFhJDuHw7w3QlnlRTFaShLs/w640-h334/%E7%94%A8%20AI%20%E6%91%98%E8%A6%81%E5%BD%B1%E7%89%87%E9%87%8D%E9%BB%9E%E6%98%AF%E7%AF%80%E7%9C%81%E6%99%82%E9%96%93%EF%BC%8C%E9%82%84%E6%98%AF%E6%B5%AA%E8%B2%BB%E6%99%82%E9%96%93%EF%BC%9F%E6%88%91%E7%9A%84%E5%AF%A6%E6%B8%AC%E5%BF%83%E5%BE%97.png)](https://www.playpcesor.com/2023/03/ai.html)
+
+最近 ChatGPT 等 AI 工具有愈來愈多延伸的應用，我也針對自己熟悉的任務管理、目標思考、寫作創意等領域，寫過兩篇文章分享心得：「 我如何利用 ChatGPT 提高寫作效率，跟 AI 對話強化論點而不抄襲 」、「 Notion AI 筆記實測：自動用中文寫報告大綱、會議待辦、行銷文案 」。 延伸工具中有一個應用類型是開始利用 AI 分析解讀文字的能力，幫助我們自動產生像是 YouTube 影片摘要、網頁文章摘要等等內容，這樣的工具是否值得一用呢？我對這個問題很感興趣，於是花了一段時間實際測試看看它的使用效果。
+
+### [Google 表單自動關閉回覆教學：時間人數到達就過期](https://www.playpcesor.com/2014/10/google-form-limit-automate.html)
+
+[![Image 13: 圖片](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFwXIGoxu5zu2dBPQYPH8YuJfpKo-ocffIwYQMNXMaSL_-CXNtPNeeSLi1rDvkfAtrWtbZeWrUQ2jz7U76G5qc_OKK_daYSLpeRHjZenB3oBxhUI3P6pTU1smxvHOgwicnjpWh7g/s1600/Google+%E8%A1%A8%E5%96%AE%E8%87%AA%E5%8B%95%E9%97%9C%E9%96%89%E5%9B%9E%E8%A6%86-01.png)](https://www.playpcesor.com/2014/10/google-form-limit-automate.html)
+
+Google 表單，是 Google 雲端硬碟裡用來製作線上問卷調查的免費工具。 愈來愈強大、愈來愈漂亮的 Google 表單，可是設計出各式各樣擁有專業問題、滿足特殊調查需求的精美問卷，如果你還不知道怎麼活用他的基本功能，那麼一定要參考下面三篇我在電腦玩物中所寫的一系列教學，從基本功能到隱藏功能，會帶你上手這個好用的工具： 設計問卷調查快速免費，新版線上 Google form 表單教學 不再只有醜醜範本！如何幫 Google 表單美化背景外觀？ Google 表單的 10 個專業問券調查設計秘密教學  也因為寫了一系列實用的 Google 表單教學，所以很多朋友來問我： Google 表單還能不能滿足某某個需求？ 而其中被詢問度最高的就是：「 可不可以讓 Google 表單 自動關閉回覆 ？時間過期了問卷就關閉，填寫人數到達限額了就自動停止。 」如果可以做到，那麼 Google 表單甚至可以用在報名表、抽獎表之類的應用了。好消息是，這個問題有解了，今天開始 Google 表單可以做到限期、限額自動關閉回覆的功能囉！ 2017/8/31 新增 ： 自動移除額滿選項！ Google 表單報名購物限制數量最簡單教學
+
+### [如何用 ChatGPT 加速生成一份有圖有文的簡報，實戰案例教學](https://www.playpcesor.com/2023/03/chatgpt.html)
+
+[![Image 14: 圖片](https://blogger.googleusercontent.com/img/a/AVvXsEhhZFPJS9bnTAKQTjwx8igkZcKeOVQae4QB6SrL820hAOZUcS7W7A_Tdd5ajMArMkK6e3Hf9MhoHedY2xsdHi_sMWa3YNUB0qajXv0UPo-zfL9Zn_yiTDlc0OLM3gjsBvrVxqtgsLyQS7849hKKUjjwp5vGV2W1e1tNCnGsn0mG8r3fLF01ORE=w640-h372)](https://www.playpcesor.com/2023/03/chatgpt.html)
+
+現在各種利用 AI 自動生成簡報的服務很多， 不過如果我們就使用最原始的 ChatGPT 來加速簡報製作，可以達到多少自動化程度呢？ 今天這篇文章，就想來試試看這樣的案例實戰，而結果其實還不錯，雖然可能沒有像是 AI 簡報工具那樣幾秒鐘生成，但是也可以在零內容的情況下，2~3 分鐘內完成一份圖文並茂的簡報。
+
+### [用 ChatGPT 快速將會議語音逐字稿轉成完美文章表格的 5 個技巧](https://www.playpcesor.com/2023/03/chatgpt-note.html)
+
+[![Image 15: 圖片](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Awy-IpRPqF1Yb33ViGKbiu_gxIvdm_6KNJUyXi772MLRQmBl2Md2hHKIXLFEhREdSZzdv41lGY_h_fU8N_U5axFHSDtqWuk6_lWZ0gyvebdb0thciPlQYdWDa3diOyCU5iw0PLA9pX_S_iQmJE60C0P24nnM3vPu90RBYDLkTdEMMutbmrw/w640-h386/image-00.png)](https://www.playpcesor.com/2023/03/chatgpt-note.html)
+
+很多時候我會用到「 語音轉文字 」的逐字稿功能，例如開重要會議、一對一訪談，甚至要撰寫部落格文章草稿的時候。我會先錄下語音檔案，或者直接使用語音轉文字的即時轉錄工具（我最常用的是「 Google 即時轉錄 」，以及「 用 Windows 11 語音輸入繁體中文，快速完成會議紀錄、思考筆記 」）。

@@ -18,7 +18,7 @@ api_key = os.getenv('GOOGLE_NEWS_API_KEY')
 search_keyword = "大模型"
 
 # 采集新闻数量
-number_of_articles = 1
+number_of_articles = 5
 
 
 
