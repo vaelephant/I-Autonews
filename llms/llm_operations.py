@@ -1,4 +1,5 @@
 import requests
+from groq import Groq
 
 def generate_text_with_llm(prompt):
     """
@@ -37,6 +38,25 @@ def generate_text_with_llm(prompt):
     except requests.exceptions.RequestException as e:
         print(f"RequestException: {e}")
         raise
+
+# Groq 框架
+def generate_text_with_groq(prompt):
+    client = Groq(
+    api_key="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"
+    )
+
+    chat_completion = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        model="llama3-70b-8192",
+    )
+    result = chat_completion.choices[0].message.content
+    # print(chat_completion.choices[0].message.content)
+    return result
 
 if __name__ == "__main__":
     prompt = "1=+1=？，请用中文回答"

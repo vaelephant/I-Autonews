@@ -1,8 +1,6 @@
 const axios = require('axios');
-const pm2 = require('pm2');
 
 // 替换为你的钉钉Webhook URL
-// const DINGTALK_WEBHOOK_URL = 'https://oapi.dingtalk.com/robot/send?access_token=YOUR_ACCESS_TOKEN';
 const DINGTALK_WEBHOOK_URL = 'https://oapi.dingtalk.com/robot/send?access_token=515362e8bd6eed5c39136cf45cce7c45c5358cb546351391e30e6416c098de7b';
 
 // 格式化PM2状态信息
