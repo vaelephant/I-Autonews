@@ -1,6 +1,8 @@
 import os
 import json
 import requests
+import schedule
+import time
 from dotenv import load_dotenv
 from termcolor import colored, cprint
 from web_loader import load_url  # 确保这个模块存在并且能够正确导入
@@ -52,7 +54,7 @@ def fetch_news(api_key, search_keyword):
 
         # 检查请求是否成功
         if data['status'] == 'ok':
-            return data['articles'][:number_of_articles]  # 只读取前1篇文章
+            return data['articles'][:number_of_articles]  # 只读取前number_of_articles篇文章
         else:
             print("Failed to retrieve news. Check your API key and source.")
             return []
@@ -60,12 +62,13 @@ def fetch_news(api_key, search_keyword):
         print(f"HTTP请求错误: {e}")
         return []
 
-def main():
-    print_startup_message()
-    print(f"\n\n搜索关键词: {search_keyword}")
-    print(f"采集新闻数量: {number_of_articles}")
-  
-    articles = fetch_news(api_key, search_keyword)
+def process_articles(articles):
+    """
+    处理新闻文章，生成摘要并发送通知。
+    
+    参数:
+    articles (list): 新闻文章列表
+    """
     for i, article in enumerate(articles, 1):
         # 使用f-string格式化输出
         print(f"\n\n文章 {i}:")
@@ -93,6 +96,22 @@ def main():
         else:
             print("无法获取文章内容。")
 
+def main():
+    print_startup_message()
+    print(f"\n\n搜索关键词: {search_keyword}")
+    print(f"采集新闻数量: {number_of_articles}")
+  
+    articles = fetch_news(api_key, search_keyword)
+    if articles:
+        process_articles(articles)
+    else:
+        print("未获取到任何新闻文章。")
+
+# 设置定时任务，每5分钟执行一次
+schedule.every(5).minutes.do(main)
+
 if __name__ == "__main__":
     main()
-
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
